@@ -25,7 +25,7 @@ export const images=[
 
 export const owner = {
   name: "Mr. Manoj Kumar",
-  picture: "/Profile.webp", // Placeholder image URL in portrait format
+  picture: "/Profile.webp", 
   description: `Welcome to M.K Demolators! As the owner, I am proud to lead a team dedicated to providing reliable and efficient demolition services. With years of experience, we understand that demolition is about precision, safety, and respect for the environment. Our skilled team uses the latest technology to deliver tailored solutions for every project, from residential renovations to large-scale commercial demolitions. At M.K Demolators, your satisfaction is our priority. We believe in transparency, communication, and sustainable practices. We recycle materials whenever possible and minimize our environmental footprint. Thank you for considering us for your demolition needs. We look forward to turning your vision into reality! 
 
   Best regards,
@@ -39,7 +39,7 @@ export const owner = {
 export const review = {
   reviewerName: "Our Clients",
   reviewText: "M.K Demolators provided exceptional service! Their team was professional, efficient, and respectful of our property. The demolition was completed ahead of schedule, and they left the site clean and safe. Highly recommend them for any demolition needs!",
-  rating: 5 // Assuming a rating out of 5
+  rating: 5 
 };
 
 export const reviews = [

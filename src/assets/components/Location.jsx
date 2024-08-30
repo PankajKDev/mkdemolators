@@ -1,6 +1,6 @@
+import  { memo } from 'react';
 
-
-const Location = () => {
+const Location = memo(function Location() {
     return (
         <div className="bg-gray-100 text-gray-900 py-12">
             <div className="container mx-auto px-4 md:w-3/5 w-full">
@@ -16,7 +16,7 @@ const Location = () => {
                             width="100%"
                             height="450"
                             style={{ border: 0 }}
-                            allowFullScreen=""
+                            allowFullScreen
                             loading="lazy"
                         ></iframe>
                     </div>
@@ -24,6 +24,6 @@ const Location = () => {
             </div>
         </div>
     );
-};
+});
 
 export default Location;
