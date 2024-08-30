@@ -18,7 +18,7 @@ export const images=[
   "/Carousel/one.webp",
   "/Carousel/two.webp",
   "/Carousel/three.webp",
-  "/Carousel/four.avif",
+  "/Carousel/four.webp",
 ]
 
 
