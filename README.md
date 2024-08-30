@@ -1,1 +1,1 @@
-This is a business portfolio website made for M.K Demolators developed and maintained by PankajKDev
+M.K Demolators portfolio website developed and managed by PankajKDev

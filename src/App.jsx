@@ -13,9 +13,9 @@ const App = () => {
   return (
     <div >
       <Helmet>
-                <title>M.K Demolators - Our Location</title>
-                <meta name="description" content="Visit M.K Demolators at our location in Delhi,India We specialize in safe and efficient demolition services." />
-                <meta name="keywords" content="demolition, M.K Demolators, Delhi,demolition,tin shed,basement excavation,construction,tudaai,building tudaai,services" />
+      <title>M.K. Demolators - Professional Demolition Services in Delhi</title>
+      <meta name="description" content="M.K. Demolators offers top-notch demolition services in Delhi and surrounding areas. Contact us for safe and efficient demolition." />
+                <meta name="keywords" content="demolition services, Delhi demolition, building demolition, concrete demolition, residential demolition, commercial demolition, demolition contractors, demolition near me, site clearance, demolition waste management, eco-friendly demolition, demolition experts, demolition cost estimate, industrial demolition, asbestos removal, wrecking services, local demolition services, affordable demolition services, complete building demolition services, best demolition company, trusted demolition services, demolition consultation, government demolition contractors, demolition trends, demolition project management, high safety construction demolition, construction project demolition services" />
                 <meta name="author" content="M.K Demolators" />
             </Helmet>
       <Navbar/>
