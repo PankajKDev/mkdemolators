@@ -24,8 +24,7 @@ const Carousel = memo(function Carousel() {
     <div className="relative w-full max-w-screen-lg mx-auto mt-10">
       <div className="overflow-hidden rounded-lg">
         <img
-          src={images[currentIndex]} 
-          srcSet={`${images[currentIndex]} 1x, ${images[currentIndex].replace('.webp', '-large.webp')} 2x`} 
+          src={images[currentIndex]}      
           alt={`Slide ${currentIndex}`}
           className="w-full h-96 object-cover md:h-[32rem]"
           loading="lazy" 
