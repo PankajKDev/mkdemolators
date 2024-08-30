@@ -1,0 +1,37 @@
+{
+    "name": "M.K. Demolators",
+    "short_name": "M.K. Demolators",
+    "description": "Professional building demolition services in Delhi and surrounding areas.",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#317EFB",
+    "icons": [
+        {
+            "src": "/icons/logo-black.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "/icons/logo-color.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "/icons/logo-no-background.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "/icons/logo-white.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "/icons/apple-logo.png",  
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
